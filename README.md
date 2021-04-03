@@ -1,1 +1,1 @@
-# tateti
+Functional tic-tac-toe play
